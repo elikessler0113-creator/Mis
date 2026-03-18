@@ -90,7 +90,10 @@
    TIP: Change the values below to customize your entire website's look!
 
 ==================================================================================*/
-
+.header-logo {
+    max-width: 200px; /* Adjust this number to make it bigger or smaller */
+    height: auto;
+}
 /* ===== CSS VARIABLES ===== */
 :root {
     /* Colors - Customize these! */
