@@ -198,7 +198,7 @@ a {
 }
 
 a:hover {
-    color: var(--link-hover);
+    color: var(--accent-color);
     text-decoration: underline;
 }
 
