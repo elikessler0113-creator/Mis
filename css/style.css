@@ -531,14 +531,14 @@ section:nth-child(even) {
 
 .hobby-images {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: var(--spacing-sm);
     margin: var(--spacing-md) 0;
 }
 
 .hobby-images img {
     width: 100%;
-    height: 350px;
+    height: 200px;
     object-fit: cover;
     border-radius: var(--radius-md);
 }
