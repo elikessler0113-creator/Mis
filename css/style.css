@@ -363,6 +363,7 @@ section:nth-child(even) {
 .btn-download:hover {
     background-color: var(--primary-color);
     text-decoration: none;
+    border: 2px solid #007bff;
 }
 
 /* ===== GRIDS ===== */
