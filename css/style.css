@@ -355,13 +355,13 @@ section:nth-child(even) {
 }
 
 .btn-download {
-    background-color: var(--accent-color);
+    background-color: var(--primary-color);
     color: white;
     margin-top: var(--spacing-sm);
 }
 
 .btn-download:hover {
-    background-color: #e6b800;
+    background-color: var(--primary-color);
     text-decoration: none;
 }
 
