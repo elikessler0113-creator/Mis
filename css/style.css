@@ -337,7 +337,7 @@ section:nth-child(even) {
 }
 
 .btn-primary:hover {
-    background-color: #569750;
+    background-color: var(--primary-color);
     text-decoration: none;
     transform: translateY(-2px);
     box-shadow: var(--shadow-lg);
