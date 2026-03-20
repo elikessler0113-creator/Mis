@@ -524,7 +524,7 @@ section:nth-child(even) {
 .hobby-detail {
     margin-bottom: var(--spacing-lg);
     padding-bottom: var(--spacing-lg);
-    border-bottom: 2px solid var(--border-color);
+    border-bottom: none;
 }
 
 .hobby-detail:last-child {
@@ -567,9 +567,10 @@ section:nth-child(even) {
 
 /* ===== CTA SECTION ===== */
 .cta {
+    background: var(--primary-color);
     text-align: center;
     padding: var(--spacing-xl) 0;
-    background-color: var(--primary-color);
+    
 }
 
 .cta h2,
