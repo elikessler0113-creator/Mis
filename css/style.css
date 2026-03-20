@@ -362,7 +362,7 @@ section:nth-child(even) {
 }
 
 .btn-download:hover {
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     text-decoration: none;
     
 }
