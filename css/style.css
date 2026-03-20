@@ -569,8 +569,7 @@ section:nth-child(even) {
 .cta {
     text-align: center;
     padding: var(--spacing-xl) 0;
-
-    color: var(--primary-color);
+    background-color: var(--primary-color);
 }
 
 .cta h2,
