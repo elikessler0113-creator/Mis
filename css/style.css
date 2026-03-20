@@ -358,7 +358,7 @@ section:nth-child(even) {
     background-color: var(--primary-color);
     color: white;
     margin-top: var(--spacing-sm);
-   border: 2px solid #ffffff;
+  
 }
 
 .btn-download:hover {
@@ -569,7 +569,7 @@ section:nth-child(even) {
 .cta {
     text-align: center;
     padding: var(--spacing-xl) 0;
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
+    background: var(--primary-color);
     color: white;
 }
 
