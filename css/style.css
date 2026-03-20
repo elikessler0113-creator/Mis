@@ -90,6 +90,14 @@
    TIP: Change the values below to customize your entire website's look!
 
 ==================================================================================*/
+/* HR break code*/
+
+hr {
+   border: none;
+   border-top: 2px solid var(--primary-color);
+   margin: 20px 0;
+}
+
 .header-logo {
     max-width: 200px; /* Adjust this number to make it bigger or smaller */
     height: auto;
